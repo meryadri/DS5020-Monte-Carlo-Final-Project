@@ -8,7 +8,7 @@ converges (unbiasedness, variance, the weak law, a CLT confidence interval), and
 check each result numerically against a case where the true answer is known
 ($\mu = \pi$). The same estimator is then applied to NOAA daily weather data.
 
-Overleaf project: https://www.overleaf.com/project/6aebbf3646d901528b89dfbf
+Overleaf project: https://www.overleaf.com/project/6aebbf3646d901528b89dfbf/share#69f254d9ac708e03c03cb84c2230940db0381c3767d9dc99
 
 ## Layout
 
